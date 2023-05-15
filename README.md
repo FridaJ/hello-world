@@ -1,4 +1,3 @@
-# hello-world
-tutorial repository
+# Technical Test
 
-testing testing adding stuff
+Script made at an interview 1.5 h (not finished)
